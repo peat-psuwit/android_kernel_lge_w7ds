@@ -1,3 +1,14 @@
+                            Important
+This tree is a part of my (peat-psuwit's) afford to port Cyanogenmod
+to LG L90 Dual. These files are from LG's kernel uploaded on their
+website. Unfortunately, I cannot boot from this kernel sucessfully,
+so this tree is essentially useless. If you're looking for kernel for
+this device, take a look at 
+https://github.com/CyanogenMod/android_kernel_lge_msm8226
+
+Original README follow.
+
+----------------------------------------------------------------------
 	Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
